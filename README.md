@@ -15,4 +15,7 @@ python app/app.py
 \`\`\`
 
 [Open Notebook in Colab](https://colab.research.google.com/github/RohanVipin/GENAI-/blob/main/NeuralinkLectures.ipynb)
+
+## Download Model
+[Click here to download the fine-tuned GPT-2 model](https://drive.google.com//content/Fake-News-Generator/models/fine_tuned_gpt2)
 EOT
